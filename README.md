@@ -31,4 +31,7 @@ This is your manifest file. It will hold the pages you'd like to download and sc
 
 Your items directory will hold all of the downloaded data objects from your manifest. Scrape.rb is designed to scrape the files here, not in the browser.
 
+####export/
+
+All of your export files will be exported into this directory
 
